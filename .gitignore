@@ -7,7 +7,10 @@
 !/build/index.asset.php
 !/includes/
 !/includes/bootstrap.php
+!/.gitattributes
+!/LICENSE.md
 !/package.json
 !/pmpro-command-palette.php
+!/README.md
 !/src/
 !/src/index.js
