@@ -1,0 +1,13 @@
+.DS_Store
+.idea/
+/*
+!/.gitignore
+!/build/
+!/build/index.js
+!/build/index.asset.php
+!/includes/
+!/includes/bootstrap.php
+!/package.json
+!/pmpro-command-palette.php
+!/src/
+!/src/index.js

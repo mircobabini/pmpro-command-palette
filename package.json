@@ -1,0 +1,13 @@
+{
+  "name": "pmpro-command-palette",
+  "version": "0.1.0",
+  "private": true,
+  "description": "WordPress command palette support for Paid Memberships Pro.",
+  "scripts": {
+    "build": "wp-scripts build src/index.js --output-path=build",
+    "start": "wp-scripts start src/index.js --output-path=build"
+  },
+  "devDependencies": {
+    "@wordpress/scripts": "^30.8.0"
+  }
+}
